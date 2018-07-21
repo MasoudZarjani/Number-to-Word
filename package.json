@@ -1,0 +1,19 @@
+{
+  "name": "number-to-word",
+  "version": "1.0.0",
+  "description": "Restful API - Convert The Number to World in Several Language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasoudZarjani/Number-to-Word.git"
+  },
+  "author": "Masoud Zarjani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasoudZarjani/Number-to-Word/issues"
+  },
+  "homepage": "https://github.com/MasoudZarjani/Number-to-Word#readme"
+}
